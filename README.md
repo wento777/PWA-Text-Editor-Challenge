@@ -115,7 +115,7 @@ THEN I should have proper build scripts for a webpack application
 
   # This project has been deployed to GitHub, here is the link:
 
-  * 
+  * https://github.com/wento777/PWA-Text-Editor-Challenge
 
 
   # The URL of the functional, deployed application in Heroku
